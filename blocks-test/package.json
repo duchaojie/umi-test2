@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/dublock",
+  "version": "0.0.1",
+  "description": "test umi",
+  "main": "src/index.js",
+  "authors": {
+    "name": "siqi",
+    "email": "18837275337@163.com"
+  },
+  "repository": "umi-blocks/dublock",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-block-dev": "^1.0.0"
+  },
+  "license": "MIT"
+}
