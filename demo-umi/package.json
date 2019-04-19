@@ -1,0 +1,24 @@
+{
+  "name": "@umi-block/demo",
+  "version": "0.0.1",
+  "description": "demo test",
+  "main": "src/index.js",
+  "authors": {
+    "name": "siqi",
+    "email": "18837275337@163.com"
+  },
+  "repository": "umi-blocks/demo",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    
+    "umi-plugin-block-dev": "^1.0.0"
+    
+    },
+  "license": "MIT"
+}
